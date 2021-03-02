@@ -24,6 +24,10 @@ img {
     color: white;
 }
 
+.navigation__motto {
+    margin-top: 1rem;
+}
+
 /* navigation */
 
 .navlinks {
