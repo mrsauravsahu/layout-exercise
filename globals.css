@@ -79,3 +79,19 @@ main {
     width: 100%;
     align-self: center;
 }
+
+/* footer */
+
+footer {
+    display: flex;
+    margin-top: 4rem;
+    padding: 1rem;
+    background-color: darkgray;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.footer__sociallink {
+    color: black;
+    font-weight: 800;
+    text-decoration: none;
+}
