@@ -6,4 +6,8 @@
     .aboutme, .blogs {
         width: auto;
     }
+
+    .navlinks {
+        flex-direction: column;
+    }
 }
