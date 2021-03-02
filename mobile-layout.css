@@ -1,0 +1,9 @@
+@media screen and (max-width: 26rem) {
+    main {
+        flex-direction: column;
+    }
+
+    .aboutme, .blogs {
+        width: auto;
+    }
+}

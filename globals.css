@@ -48,7 +48,7 @@ main {
 /* about me */
 
 .aboutme {
-    padding: 1rem;
+    margin: 1rem;
     width: 30%;
     display: flex;
     flex-direction: column;
@@ -66,7 +66,7 @@ main {
 
 /* blog section */
 .blogs {
-    padding: 1rem;
+    margin: 1rem;
     width: 70%;
 }
 
