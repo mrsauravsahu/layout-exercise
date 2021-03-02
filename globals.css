@@ -36,6 +36,7 @@ img {
     list-style-type: none;
     padding: 0.5rem 01rem;
     color: white;
+    font-weight: 800;
 }
 
 /* main sections */
@@ -66,6 +67,7 @@ main {
 /* blog section */
 .blogs {
     padding: 1rem;
+    width: 70%;
 }
 
 .blog {
